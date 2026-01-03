@@ -116,3 +116,7 @@ Copyright © 2025 Taro
 Free for personal and educational use.
 
 You are free to modify, improve, and redistribute this project.
+
+
+<img width="921" height="375" alt="image" src="https://github.com/user-attachments/assets/b95df703-9aea-4b07-9a0c-06636ae88a55" />
+
