@@ -1,4 +1,4 @@
-# IP Tracker V.2
+# IP Tracker V.2 
 
 CLI tool for fast IP intelligence lookup with Discord webhook logging.
 
